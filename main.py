@@ -1,3 +1,5 @@
-print("Hello World")
+hello_str = "Hello"
 
-print("Hello Git")
+hello_word_str = f"{hello_str}, World!"
+
+print(hello_word_str)
